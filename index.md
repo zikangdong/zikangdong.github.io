@@ -7,15 +7,15 @@ I am an associate professor in the [School of Mathematical Science](https://math
 
  
 ## Publications and preprints
-1.(with [Bin Wei](https://sxkxxy.tiangong.edu.cn/2025/0521/c4977a105124/page.htm)) *A note on large values of |\zeta^{(\ell)}(1+it)|*, Bull. Aust. Math. Soc. **108** (2023), [217-223](https://doi.org/10.1017/S0004972722001605)   
+1.(with [Weijia Wang](http://www.mcm.ac.cn/people/postdocs/202312/t20231201_765075.html) and [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao)) *Distribution of Dirichlet L-functions*,  Mathematika **69**(3) (2023), [719-750](https://doi.org/10.1112/mtk.12205) 
 
-2.(with [Weijia Wang](http://www.mcm.ac.cn/people/postdocs/202312/t20231201_765075.html) and [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao)) *Distribution of Dirichlet L-functions*,  Mathematika **69**(3) (2023), [719-750](https://doi.org/10.1112/mtk.12205) 
+2.(with [Bin Wei](https://sxkxxy.tiangong.edu.cn/2025/0521/c4977a105124/page.htm)) *A note on large values of* $|\zeta^{(\ell)}(1+it)|$, Bull. Aust. Math. Soc. **108** (2023), [217-223](https://doi.org/10.1017/S0004972722001605)
 
-3.*On the distribution of large values of |\zeta(1+it)|*, Period. Math. Hung. **87** (2023), [374-393](https://doi.org/10.1007/s10998-023-00522-9)  
+3.*On the distribution of large values of* $|\zeta(1+it)|$, Period. Math. Hung. **87** (2023), [374-393](https://doi.org/10.1007/s10998-023-00522-9)
 
-4.(with [Bin Wei](https://sxkxxy.tiangong.edu.cn/2025/0521/c4977a105124/page.htm)) *On large values of |\zeta(\sigma+it)|*, [arXiv:2110.04278](https://arxiv.org/abs/2110.04278), submitted   
+4.(with [Bin Wei](https://sxkxxy.tiangong.edu.cn/2025/0521/c4977a105124/page.htm)) *On large values of* $\zeta(\sigma+it)|$, [arXiv:2110.04278](https://arxiv.org/abs/2110.04278), submitted
 
-5.*On the distribution of large values of |\zeta(\sigma+it)|*, Bull. Malays. Math. Sci.[pp](https://arxiv.org/abs/2110.03288)
+5.*On the distribution of large values of* $|\zeta(\sigma+it)|$, Bull. Malays. Math. Sci.[pp](https://arxiv.org/abs/2110.03288)
 
 6.(with [Weijia Wang](http://www.mcm.ac.cn/people/postdocs/202312/t20231201_765075.html) and [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao)) *Structure of large quadratic character sums*, [arXiv:2306.06355](https://arxiv.org/abs/2306.06355),  submitted  
 
