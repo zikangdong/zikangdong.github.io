@@ -3,7 +3,7 @@
 zikangdong@gmail.com
 
 ## About me
-I am now an associate professor at Soochow University since Aug 2025. I work in analytic number theory. I obtained my PhD in June 2022 in [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/) at [Univésité Paris-Est Créteil](https://www.u-pec.fr/), under the supervision of Prof. [Jie Wu](https://lama.u-pem.fr/membres/wu.jie). Here is my PhD [thesis]([https://www.theses.fr/s211943](https://theses.hal.science/tel-04284187v1/document). Here is my [CV](https://github.com/zikangdong/zikangdong.github.io/blob/gh-pages/CV-en.pdf).
+I am now an associate professor at Soochow University since Aug 2025. I work in analytic number theory. I obtained my PhD in June 2022 in [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/) at [Univésité Paris-Est Créteil](https://www.u-pec.fr/), under the supervision of Prof. [Jie Wu](https://lama.u-pem.fr/membres/wu.jie). Here is my PhD [thesis](https://theses.hal.science/tel-04284187v1/document). Here is my [CV](https://github.com/zikangdong/zikangdong.github.io/blob/gh-pages/CV-en.pdf).
 
  
 ## Publications and preprints
