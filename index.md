@@ -15,7 +15,7 @@ I am an associate professor in the [School of Mathematical Science](https://math
 
 4.(with [Bin Wei](https://sxkxxy.tiangong.edu.cn/2025/0521/c4977a105124/page.htm)) *On large values of |ζ(σ+it)|*, [arXiv:2110.04278](https://arxiv.org/abs/2110.04278), submitted
 
-5.*On the distribution of large values of |ζ(σ+it)|*, Bull. Malays. Math. Sci.[pp](https://arxiv.org/abs/2110.03288)
+5.*On the distribution of large values of |ζ(σ+it)|*, Bull. Malays. Math. Sci. (2025) [pp 1-](https://arxiv.org/abs/2110.03288)
 
 6.(with [Weijia Wang](http://www.mcm.ac.cn/people/postdocs/202312/t20231201_765075.html) and [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao)) *Structure of large quadratic character sums*, [arXiv:2306.06355](https://arxiv.org/abs/2306.06355),  submitted  
 
