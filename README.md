@@ -11,7 +11,7 @@ I am now an associate professor at Soochow University since Aug 2025. I work in 
 
 2.(with Weijia Wang and Hao Zhang) *Distribution of Dirichlet L-functions*,  Mathematika **69**(3) (2023), [719-750](https://doi.org/10.1112/mtk.12205) 
 
-3.*On the distribution of large values of* $|\zeta(1+it)|$, Period. Math. Hung. (2023), [p.p. 20](https://doi.org/10.1007/s10998-023-00522-9)  
+3.*On the distribution of large values of* $|\zeta(1+it)|$, Period. Math. Hung. **87** (2023), [374-393](https://doi.org/10.1007/s10998-023-00522-9)  
 
 4.(with Bin Wei) *On large values of* $|\zeta(\sigma+it)|$, [arXiv:2110.04278](https://arxiv.org/abs/2110.04278), submitted   
 
@@ -19,9 +19,9 @@ I am now an associate professor at Soochow University since Aug 2025. I work in 
 
 6.(with Weijia Wang and Hao Zhang) *Structure of large quadratic character sums*, [arXiv:2306.06355](https://arxiv.org/abs/2306.06355),  submitted  
 
-7.(with Weijia Wang and Hao Zhang) *Large zeta sums*, Period. Math. Hung. [pp](https://doi.org/10.1007/s10998-025-00658-w)
+7.(with Weijia Wang and Hao Zhang) *Large zeta sums*, Period. Math. Hung. [pp 1-11](https://doi.org/10.1007/s10998-025-00658-w)
 
-8.(with Yutong Song, Weijie Wang and HaoZhang) *On derivatives of zeta and L-functions*, Ramanujan J.
+8.(with Yutong Song, Weijie Wang and HaoZhang) *On derivatives of zeta and L-functions*, Ramanujan J. **66** (5) (2025), [pp 1-16](https://link.springer.com/article/10.1007/s11139-024-00963-x)
 
 9.(with Weijia Wang and Hao Zhang) *Lower bounds for high moments of zeta sums*, [arXiv:2506.09334](http://arxiv.org/abs/2506.09334)
 
