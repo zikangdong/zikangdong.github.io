@@ -19,7 +19,7 @@ I am now an associate professor at Soochow University since Aug 2025. I work in 
 
 6.(with Weijia Wang and Hao Zhang) *Structure of large quadratic character sums*, [arXiv:2306.06355](https://arxiv.org/abs/2306.06355),  submitted  
 
-7.(with Weijia Wang and Hao Zhang) *Large zeta sums*, Period. Math. Hung. [pp 1-11](https://doi.org/10.1007/s10998-025-00658-w)
+7.(with Weijia Wang and Hao Zhang) *Large zeta sums*, Period. Math. Hung. (2025), [pp 1-11](https://doi.org/10.1007/s10998-025-00658-w)
 
 8.(with Yutong Song, Weijie Wang and HaoZhang) *On derivatives of zeta and L-functions*, Ramanujan J. **66** (5) (2025), [pp 1-16](https://link.springer.com/article/10.1007/s11139-024-00963-x)
 
