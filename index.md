@@ -15,7 +15,7 @@ I am an associate professor in the [School of Mathematical Science](https://math
 
 4.(with [Bin Wei](https://sxkxxy.tiangong.edu.cn/2025/0521/c4977a105124/page.htm)) *On large values of ζ(σ+it)*, [arXiv:2110.04278](https://arxiv.org/abs/2110.04278), submitted
 
-5.*On the distribution of large values of ζ(σ+it)*, Bull. Malays. Math. Sci. (2025) [pp 1-](https://arxiv.org/abs/2110.03288)
+5.*On the distribution of large values of ζ(σ+it)*, Bull. Malays. Math. Sci. Soc. **48**(2025), [pp 1-22](https://link.springer.com/article/10.1007/s40840-025-01955-w)
 
 6.(with [Weijia Wang](http://www.mcm.ac.cn/people/postdocs/202312/t20231201_765075.html) and [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao)) *Structure of large quadratic character sums*, [arXiv:2306.06355](https://arxiv.org/abs/2306.06355),  submitted  
 
@@ -31,6 +31,9 @@ I am an associate professor in the [School of Mathematical Science](https://math
 
 12.(with Yanbin Zhang) *Large values of quadratic character sums*
 
-13.(with [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm), Yutong Song and Shengbo Zhao) *Large values of quadratic L-functions near the central point*
+13.(with [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm), Yutong Song and Shengbo Zhao) *Large values of quadratic Dirichlet L-functions near the central point*, [arXiv:2508.12205](https://arxiv.org/abs/2508.12205)
+
+14.(with [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm), Yutong Song and Shengbo Zhao) *Quadratic character sums with multiplicative coefficients*, [arXiv:2508.16967](https://arxiv.org/abs/2508.16967)
+
 ## Some links: 
 [Arxiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)， [Research Gate](https://www.researchgate.net/profile/Zikang-Dong)， [GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ)， [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=294426)
