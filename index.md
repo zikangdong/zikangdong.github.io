@@ -40,4 +40,7 @@ I am an associate professor in the [School of Mathematical Sciences](https://mat
 16.(with Yutong Song, [Weijia Wang](http://www.mcm.ac.cn/people/postdocs/202312/t20231201_765075.html), [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao) and Shengbo Zhao) *Large values of Dirichlet polynomials with multiplicative coefficients*, [arXiv]
 
 ## Some links: 
-[Arxiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)， [Research Gate](https://www.researchgate.net/profile/Zikang-Dong)， [GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ)， [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=294426)
+[arXiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)   
+[ResearchGate](https://www.researchgate.net/profile/Zikang-Dong)  
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ)  
+[Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=294426)
