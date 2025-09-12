@@ -35,5 +35,9 @@ I am an associate professor in the [School of Mathematical Sciences](https://mat
 
 14.(with [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm), Yutong Song and Shengbo Zhao) *Quadratic character sums with multiplicative coefficients*, [arXiv:2508.16967](https://arxiv.org/abs/2508.16967)
 
+15.(with Yutong Song, [Weijia Wang](http://www.mcm.ac.cn/people/postdocs/202312/t20231201_765075.html), [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao) and Shengbo Zhao) *Large character sums with multiplicative coefficients*, [arXiv:2509.09649](https://arxiv.org/abs/2509.09649)
+
+16.(with Yutong Song, [Weijia Wang](http://www.mcm.ac.cn/people/postdocs/202312/t20231201_765075.html), [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao) and Shengbo Zhao) *Large values of Dirichlet polynomials with multiplicative coefficients*, [arXiv]
+
 ## Some links: 
 [Arxiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)， [Research Gate](https://www.researchgate.net/profile/Zikang-Dong)， [GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ)， [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=294426)
