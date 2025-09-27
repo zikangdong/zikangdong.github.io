@@ -3,7 +3,7 @@
 zikangdong@gmail.com
 
 ## About me
-I am an associate professor in the [School of Mathematical Sciences](https://math.suda.edu.cn/) at [Soochow University](https://www.suda.edu.cn/). I work in analytic number theory. I obtained my PhD in June 2022 in [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/) at [Univésité Paris-Est Créteil](https://www.u-pec.fr/), under the supervision of Prof. [Jie Wu](https://lama.u-pem.fr/membres/wu.jie). Here is my PhD [thesis](https://theses.hal.science/tel-04284187v1/document). 
+I am an associate professor in the [School of Mathematical Sciences](https://math.suda.edu.cn/) at [Soochow University](https://www.suda.edu.cn/). I work in analytic number theory. I obtained my PhD in June 2022 in [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/) at [Univésité Paris-Est Créteil](https://www.u-pec.fr/), under the supervision of Prof. [Jie Wu](https://lama.u-pem.fr/membres/wu.jie). Here is my PhD [thesis](https://theses.hal.science/tel-04284187v1/document). I was a PostDoc at Tongji University from Sept 2022 to Aug 2025, working with Prof. [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm).
 
  
 ## Publications and preprints
