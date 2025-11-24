@@ -13,7 +13,7 @@ I am an associate professor in the [School of Mathematical Sciences](https://mat
 4.(with [Bin Wei](https://sxkxxy.tiangong.edu.cn/2025/0521/c4977a105124/page.htm)) *On large values of ζ(σ+it)*, [arXiv:2110.04278](https://arxiv.org/abs/2110.04278), submitted  
 5.*On the distribution of large values of ζ(σ+it)*, Bull. Malays. Math. Sci. Soc. **48**(2025), [pp 1-22](https://link.springer.com/article/10.1007/s40840-025-01955-w)  
 6.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao)) *Structure of large quadratic character sums*, [arXiv:2306.06355](https://arxiv.org/abs/2306.06355),  submitted  
-7.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao)) *Large zeta sums*, Period. Math. Hung. **91**(2) (2025), [pp 388-398](https://doi.org/10.1007/s10998-025-00658-w)  
+7.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao)) *Large zeta sums*, Period. Math. Hung. **91**(2) (2025), [388-398](https://doi.org/10.1007/s10998-025-00658-w)  
 8.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao)) *On derivatives of zeta and L-functions*, Ramanujan J. **66** (5) (2025), [pp 1-16](https://link.springer.com/article/10.1007/s11139-024-00963-x)  
 9.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao)) *Lower bounds for high moments of zeta sums*, [arXiv:2506.09334](http://arxiv.org/abs/2506.09334)  
 10.(with [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm), Yutong Song and Shengbo Zhao) *Large values of character sums with multiplicative coefficients*, [arXiv:2508.09750](http://arxiv.org/abs/2508.09750)  
@@ -24,6 +24,7 @@ I am an associate professor in the [School of Mathematical Sciences](https://mat
 15.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao) and Shengbo Zhao) *Large character sums with multiplicative coefficients*, [arXiv:2509.09649](https://arxiv.org/abs/2509.09649)  
 16.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao) and Shengbo Zhao) *Large values of Dirichlet polynomials with multiplicative coefficients*, [	arXiv:2509.09771](https://arxiv.org/abs/2509.09771)   
 17.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao) and Shengbo Zhao) *Large quadratic character sums with multiplicative coefficients*, [arXiv:2509.20192](https://arxiv.org/abs/2509.20192)
+18.(with Yutong Song, Ruihua Wang and Shengbo Zhao) *Note on large quadratic character sums*, [arXiv:2510.09005](https://arxiv.org/abs/2510.09005)
 
 ## Some links:   
 [arXiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)   
