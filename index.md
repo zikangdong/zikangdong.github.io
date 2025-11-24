@@ -23,7 +23,7 @@ I am an associate professor in the [School of Mathematical Sciences](https://mat
 14.(with [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm), Yutong Song and Shengbo Zhao) *Quadratic character sums with multiplicative coefficients*, [arXiv:2508.16967](https://arxiv.org/abs/2508.16967)  
 15.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao) and Shengbo Zhao) *Large character sums with multiplicative coefficients*, [arXiv:2509.09649](https://arxiv.org/abs/2509.09649)  
 16.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao) and Shengbo Zhao) *Large values of Dirichlet polynomials with multiplicative coefficients*, [	arXiv:2509.09771](https://arxiv.org/abs/2509.09771)   
-17.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao) and Shengbo Zhao) *Large quadratic character sums with multiplicative coefficients*, [arXiv:2509.20192](https://arxiv.org/abs/2509.20192) 
+17.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao) and Shengbo Zhao) *Large quadratic character sums with multiplicative coefficients*, [arXiv:2509.20192](https://arxiv.org/abs/2509.20192)   
 18.(with Yutong Song, Ruihua Wang and Shengbo Zhao) *Note on large quadratic character sums*, [arXiv:2510.09005](https://arxiv.org/abs/2510.09005)
 
 ## Some links:   
