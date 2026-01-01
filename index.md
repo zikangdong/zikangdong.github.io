@@ -8,7 +8,7 @@ I am an associate professor in the [School of Mathematical Sciences](https://mat
  
 ## Publications and preprints
 1.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://grzy.hnu.edu.cn/site/index/zhanghao)) *Distribution of Dirichlet L-functions*,  Mathematika **69**(3) (2023), [719-750](https://doi.org/10.1112/mtk.12205)   
-2.(with [Bin Wei](https://sxkxxy.tiangong.edu.cn/2025/0521/c4977a105124/page.htm)) *A note on large values of ζ^(l)(1+it)*, Bull. Aust. Math. Sci. Soc. **108** (2023), [217-223](https://doi.org/10.1017/S0004972722001605)  
+2.(with [Bin Wei](https://sxkxxy.tiangong.edu.cn/2025/0521/c4977a105124/page.htm)) *A note on large values of ζ^(l)(1+it)*, Bull. Aust. Math. Soc. **108** (2023), [217-223](https://doi.org/10.1017/S0004972722001605)  
 3.*On the distribution of large values of ζ(1+it)*, Period. Math. Hung. **87** (2023), [374-393](https://doi.org/10.1007/s10998-023-00522-9)  
 4.(with [Bin Wei](https://sxkxxy.tiangong.edu.cn/2025/0521/c4977a105124/page.htm)) *On large values of ζ(σ+it)*, [arXiv:2110.04278](https://arxiv.org/abs/2110.04278), submitted  
 5.*On the distribution of large values of ζ(σ+it)*, Bull. Malays. Math. Sci. Soc. **48**(2025), [pp 1-22](https://link.springer.com/article/10.1007/s40840-025-01955-w)  
