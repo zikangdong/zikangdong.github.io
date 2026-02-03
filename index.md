@@ -25,7 +25,9 @@ I am an associate professor in the [School of Mathematical Sciences](https://mat
 16.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://zhanghaozha.github.io/homepage/) and Shengbo Zhao) *Large values of Dirichlet polynomials with multiplicative coefficients*, [	arXiv:2509.09771](https://arxiv.org/abs/2509.09771)   
 17.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://zhanghaozha.github.io/homepage/) and Shengbo Zhao) *Large quadratic character sums with multiplicative coefficients*, [arXiv:2509.20192](https://arxiv.org/abs/2509.20192)   
 18.(with Yutong Song, [Ruihua Wang](https://pandamology.github.io/) and Shengbo Zhao) *Note on large quadratic character sums*, [arXiv:2510.09005](https://arxiv.org/abs/2510.09005)   
-19.(with [Ruihua Wang](https://pandamology.github.io/), [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://zhanghaozha.github.io/homepage/)) *Large values of quadratic character sums revisited*, [arXiv:2512.24147](https://arxiv.org/abs/2512.24147) 
+19.(with [Ruihua Wang](https://pandamology.github.io/), [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://zhanghaozha.github.io/homepage/)) *Large values of quadratic character sums revisited*, [arXiv:2512.24147](https://arxiv.org/abs/2512.24147)  
+20.(with [Takao Komatsu](https://tkomatsu31.wixsite.com/mysite)) *Finite q-multiple harmonic sums on 2-…-2,1-…-1 indices*, [arXiv:2601.21395](https://arxiv.org/abs/2601.21395)
+
 
 ## Some links:   
 [arXiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)   
