@@ -27,7 +27,9 @@ I am an associate professor in the [School of Mathematical Sciences](https://mat
 18.(with Yutong Song, [Ruihua Wang](https://pandamology.github.io/) and Shengbo Zhao) *Note on large quadratic character sums*, [arXiv:2510.09005](https://arxiv.org/abs/2510.09005)   
 19.(with [Ruihua Wang](https://pandamology.github.io/), [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://zhanghaozha.github.io/homepage/)) *Large values of quadratic character sums revisited*, [arXiv:2512.24147](https://arxiv.org/abs/2512.24147)  
 20.(with [Takao Komatsu](https://tkomatsu31.wixsite.com/mysite)) *Finite q-multiple harmonic sums on 2-…-2,1-…-1 indices*, [arXiv:2601.21395](https://arxiv.org/abs/2601.21395)  
-21.(with Haidong Li) *Large values of logarithmic derivatives of quadratic Dirichlet L-functions*, [arXiv:2603.21256](https://arxiv.org/abs/2603.21256) 
+21.(with Haidong Li) *Large values of logarithmic derivatives of quadratic Dirichlet L-functions*, [arXiv:2603.21256](https://arxiv.org/abs/2603.21256)  
+22.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://zhanghaozha.github.io/homepage/) and Shengbo Zhao) *Extreme values of quadratic Dirichlet L-functions*, [arXiv:2607.20408](https://arxiv.org/pdf/2607.20408)   
+23.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://zhanghaozha.github.io/homepage/) and Shengbo Zhao) *Extreme values of quadratic Dirichlet L-functions with prime-related moduli*, [arXiv:2607.25403](https://arxiv.org/pdf/2607.25403)
 
 
 ## Some links:   
