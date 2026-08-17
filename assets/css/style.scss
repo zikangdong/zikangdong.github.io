@@ -239,3 +239,59 @@ li {
     margin-bottom: 8px;
   }
 }
+/* ========================================
+   Hero portrait
+   ======================================== */
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 55px;
+  margin-bottom: 2.8rem;
+}
+
+.hero-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.hero-photo {
+  flex: 0 0 155px;
+}
+
+.hero-photo img {
+  display: block;
+
+  width: 155px;
+  height: 185px;
+
+  object-fit: cover;
+  object-position: center top;
+
+  border-radius: 10px;
+  border: 1px solid #e6e9ed;
+
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
+}
+
+
+/* Mobile portrait layout */
+
+@media screen and (max-width: 650px) {
+
+  .hero {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    gap: 22px;
+  }
+
+  .hero-photo {
+    flex: none;
+  }
+
+  .hero-photo img {
+    width: 130px;
+    height: 155px;
+  }
+}
