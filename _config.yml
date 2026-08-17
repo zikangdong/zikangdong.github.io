@@ -1,8 +1,31 @@
-theme: jekyll-theme-minimal
-
+# Site settings
 title: Zikang Dong
 description: Associate Professor · Analytic Number Theory · Soochow University
 
+# GitHub Pages theme
+theme: jekyll-theme-minimal
+
+# Site URL
+url: "https://zikangdong.github.io"
+baseurl: ""
+
+# Author information
+author:
+  name: Zikang Dong
+  email: zikangdong@gmail.com
+
+# GitHub Pages settings
 show_downloads: false
 
-google_analytics:
+# Markdown
+markdown: kramdown
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-seo-tag
+
+# Exclude unnecessary files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
