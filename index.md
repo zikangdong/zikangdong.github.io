@@ -1,7 +1,7 @@
 <div class="hero">
 
 <div class="hero-text">
-
+  
 <h1>Zikang Dong</h1>
 
 <div class="subtitle">
@@ -27,7 +27,7 @@ Analytic Number Theory
 <img src="/assets/img/zikang-dong.png" alt="Zikang Dong">
 </div>
 
-
+</div>
 
 ## About Me
 
