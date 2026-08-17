@@ -3,18 +3,33 @@
 
 @import "{{ site.theme }}";
 
+/* =========================================================
+   Zikang Dong — Academic Homepage
+   ========================================================= */
+
 :root {
-  --text: #2b2f33;
-  --muted: #6b7280;
-  --heading: #16324f;
-  --link: #2d5f8b;
-  --line: #e8ebef;
-  --soft: #f8fafc;
+  --navy: #173653;
+  --blue: #315f87;
+  --text: #30363d;
+  --muted: #6a737d;
+  --line: #e5e9ed;
+  --soft: #f7f9fb;
+  --white: #ffffff;
+}
+
+
+/* =========================================================
+   Page
+   ========================================================= */
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: #ffffff;
+  background: var(--white);
   color: var(--text);
+
   font-family:
     -apple-system,
     BlinkMacSystemFont,
@@ -22,38 +37,53 @@ body {
     "Helvetica Neue",
     Arial,
     sans-serif;
+
   font-size: 16px;
-  line-height: 1.75;
+  line-height: 1.72;
+
   padding: 0;
 }
 
-.wrapper {
-  width: 100%;
-  max-width: 880px;
-  margin: 0 auto;
-  padding: 55px 28px 70px;
-  box-sizing: border-box;
-}
 
-/* Hide the old Minimal sidebar */
+/* Remove the original Minimal-theme sidebar */
+
 header {
   display: none;
-}
-
-section {
-  float: none;
-  width: 100%;
-  max-width: none;
-  border: none;
-  padding: 0;
-  margin: 0;
 }
 
 footer {
   display: none;
 }
 
-/* Typography */
+
+/* Main page */
+
+.wrapper {
+  width: 100%;
+  max-width: 920px;
+
+  margin: 0 auto;
+  padding: 58px 30px 75px;
+
+  box-sizing: border-box;
+}
+
+section {
+  float: none;
+
+  width: 100%;
+  max-width: none;
+
+  padding: 0;
+  margin: 0;
+
+  border: none;
+}
+
+
+/* =========================================================
+   Typography
+   ========================================================= */
 
 h1,
 h2,
@@ -67,228 +97,428 @@ h3 {
     sans-serif;
 }
 
-h1 {
-  font-size: 3.4rem;
-  line-height: 1.05;
+
+/* Name */
+
+h1,
+.hero h1 {
+  color: var(--navy);
+
+  font-size: 3.7rem;
   font-weight: 750;
+
+  line-height: 1.02;
   letter-spacing: -0.045em;
-  color: var(--heading);
-  margin: 0 0 14px;
+
+  margin: 0 0 15px;
 }
 
+
+/* Main section titles */
+
 h2 {
-  font-size: 1.45rem;
-  font-weight: 650;
-  color: var(--heading);
-  margin-top: 3.2rem;
-  margin-bottom: 1.2rem;
-  padding-bottom: 0.45rem;
+  color: var(--navy);
+
+  font-size: 1.55rem;
+  font-weight: 680;
+
+  line-height: 1.3;
+
+  margin-top: 3.4rem;
+  margin-bottom: 1.3rem;
+
+  padding-bottom: 0.48rem;
+
   border-bottom: 1px solid var(--line);
 }
 
+
+/* Publication subsection titles */
+
 h3 {
-  font-size: 1.08rem;
-  font-weight: 650;
-  color: var(--heading);
-  margin-top: 2rem;
+  color: var(--navy);
+
+  font-size: 1.13rem;
+  font-weight: 680;
+
+  margin-top: 2.25rem;
+  margin-bottom: 1.15rem;
+}
+
+
+p {
+  margin-top: 0.8rem;
   margin-bottom: 1rem;
 }
 
-p {
-  margin: 0.8rem 0 1rem;
-}
 
 strong {
   font-weight: 650;
 }
 
+
+em {
+  color: #343d46;
+}
+
+
+/* =========================================================
+   Links
+   ========================================================= */
+
 a {
-  color: var(--link);
+  color: var(--blue);
   text-decoration: none;
+
+  transition: color 0.12s ease;
 }
 
 a:hover {
+  color: var(--navy);
   text-decoration: underline;
 }
 
-/* Hero */
 
-.hero {
-  margin-bottom: 2.8rem;
-}
-
-.subtitle {
-  font-size: 1.08rem;
-  color: var(--muted);
-  margin-bottom: 4px;
-}
-
-.research-title {
-  color: var(--heading);
-  font-weight: 600;
-  margin-bottom: 18px;
-}
-
-/* Top links */
-
-.profile-links {
-  margin-top: 10px;
-  font-size: 0.96rem;
-}
-
-.profile-links a {
-  margin-right: 16px;
-  white-space: nowrap;
-}
-
-.profile-links a::after {
-  content: "↗";
-  font-size: 0.72em;
-  margin-left: 3px;
-  opacity: 0.6;
-}
-
-/* About / research */
-
-.research-box {
-  background: var(--soft);
-  border-radius: 10px;
-  padding: 18px 22px;
-  margin: 2rem 0;
-}
-
-.research-box h3 {
-  margin-top: 0;
-}
-
-.research-box ul {
-  margin-bottom: 0;
-}
-
-/* Publications */
-
-section p {
-  max-width: 100%;
-}
-
-section h3 + p {
-  margin-top: 0;
-}
-
-section h3 ~ p {
-  margin-bottom: 1.3rem;
-}
-
-/* Slightly soften metadata */
-em {
-  color: #3f4752;
-}
-
-/* Horizontal rules */
-
-hr {
-  border: 0;
-  height: 1px;
-  background: var(--line);
-  margin: 2.8rem 0;
-}
-
-/* Footer */
-
-.footer-note {
-  margin-top: 3rem;
-  padding-top: 1.2rem;
-  border-top: 1px solid var(--line);
-  color: var(--muted);
-  font-size: 0.82rem;
-  text-align: left;
-}
-
-/* Lists */
-
-ul,
-ol {
-  padding-left: 1.35rem;
-}
-
-li {
-  margin-bottom: 0.45rem;
-}
-
-/* Mobile */
-
-@media screen and (max-width: 700px) {
-  h1 {
-    font-size: 2.5rem;
-  }
-}
-
-  h2 {
-    font-size: 1.28rem;
-  }
-
-  .subtitle {
-    font-size: 1rem;
-  }
-
-  .profile-links a {
-    display: inline-block;
-    margin-bottom: 8px;
-  }
-}
-/* ========================================
-   Hero portrait
-   ======================================== */
+/* =========================================================
+   Hero / Profile
+   ========================================================= */
 
 .hero {
   display: flex;
+
   align-items: center;
   justify-content: space-between;
+
   gap: 55px;
-  margin-bottom: 2.8rem;
+
+  margin-bottom: 3rem;
+  padding-bottom: 0.5rem;
 }
+
 
 .hero-text {
   flex: 1;
   min-width: 0;
 }
 
-.hero-photo {
-  flex: 0 0 155px;
+
+.subtitle {
+  color: #56616d;
+
+  font-size: 1.08rem;
+  line-height: 1.5;
+
+  margin-bottom: 5px;
 }
+
+
+.research-title {
+  color: var(--navy);
+
+  font-size: 1.02rem;
+  font-weight: 620;
+
+  margin-top: 3px;
+  margin-bottom: 18px;
+}
+
+
+/* =========================================================
+   Portrait
+   ========================================================= */
+
+.hero-photo {
+  flex: 0 0 165px;
+}
+
 
 .hero-photo img {
   display: block;
 
-  width: 155px;
-  height: 185px;
+  width: 165px;
+  height: 200px;
 
   object-fit: cover;
   object-position: center top;
 
-  border-radius: 10px;
-  border: 1px solid #e6e9ed;
+  border-radius: 12px;
 
-  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
+  border: 1px solid #e2e6ea;
+
+  box-shadow:
+    0 5px 18px rgba(20, 40, 60, 0.07),
+    0 1px 4px rgba(20, 40, 60, 0.04);
 }
 
 
-/* Mobile portrait layout */
+/* =========================================================
+   Profile links
+   ========================================================= */
 
-@media screen and (max-width: 650px) {
+.profile-links {
+  margin-top: 16px;
+
+  font-size: 0.94rem;
+  line-height: 2;
+}
+
+
+.profile-links a {
+  display: inline-block;
+
+  margin-right: 17px;
+
+  color: var(--blue);
+
+  font-weight: 520;
+
+  white-space: nowrap;
+}
+
+
+.profile-links a:hover {
+  color: var(--navy);
+  text-decoration: none;
+  border-bottom: 1px solid var(--navy);
+}
+
+
+/* =========================================================
+   About
+   ========================================================= */
+
+#about-me + p {
+  font-size: 1.01rem;
+}
+
+
+/* =========================================================
+   Research interests
+   ========================================================= */
+
+.research-box {
+  background: var(--soft);
+
+  border-left: 3px solid #557a9b;
+  border-radius: 6px;
+
+  padding: 17px 22px 18px;
+
+  margin: 2.1rem 0 2.5rem;
+}
+
+
+.research-box h3 {
+  color: var(--navy);
+
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+
+  font-size: 1.08rem;
+}
+
+
+.research-box ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+
+  padding-left: 1.25rem;
+}
+
+
+.research-box li {
+  margin-bottom: 0.35rem;
+}
+
+
+/* =========================================================
+   Publications
+   ========================================================= */
+
+ol {
+  padding-left: 1.6rem;
+}
+
+
+ol li {
+  padding-left: 0.3rem;
+
+  margin-bottom: 1.25rem;
+
+  line-height: 1.65;
+}
+
+
+/* When publications are written as individual paragraphs */
+
+section h3 ~ p {
+  margin-bottom: 1.35rem;
+}
+
+
+/* DOI / arXiv links */
+
+section a[href*="doi.org"],
+section a[href*="arxiv.org"],
+section a[href*="springer.com"] {
+  font-size: 0.94em;
+}
+
+
+/* =========================================================
+   Horizontal rules
+   ========================================================= */
+
+hr {
+  border: 0;
+
+  height: 1px;
+
+  background: var(--line);
+
+  margin: 3rem 0;
+}
+
+
+/* =========================================================
+   Academic profiles
+   ========================================================= */
+
+.academic-links {
+  line-height: 2;
+}
+
+
+.academic-links a {
+  white-space: nowrap;
+}
+
+
+/* =========================================================
+   Footer
+   ========================================================= */
+
+.footer-note {
+  color: var(--muted);
+
+  font-size: 0.82rem;
+
+  margin-top: 3.5rem;
+  padding-top: 1.2rem;
+
+  border-top: 1px solid var(--line);
+}
+
+
+/* =========================================================
+   Mobile
+   ========================================================= */
+
+@media screen and (max-width: 700px) {
+
+  .wrapper {
+    max-width: 100%;
+
+    padding:
+      35px
+      21px
+      55px;
+  }
+
 
   .hero {
     flex-direction: column-reverse;
+
     align-items: flex-start;
-    gap: 22px;
+
+    gap: 25px;
+
+    margin-bottom: 2.3rem;
   }
+
+
+  h1,
+  .hero h1 {
+    font-size: 2.65rem;
+
+    letter-spacing: -0.035em;
+
+    margin-bottom: 12px;
+  }
+
+
+  h2 {
+    font-size: 1.35rem;
+
+    margin-top: 2.8rem;
+  }
+
+
+  h3 {
+    font-size: 1.08rem;
+  }
+
+
+  .subtitle {
+    font-size: 0.98rem;
+  }
+
+
+  .research-title {
+    font-size: 0.96rem;
+  }
+
 
   .hero-photo {
     flex: none;
   }
 
+
   .hero-photo img {
-    width: 130px;
-    height: 155px;
+    width: 135px;
+    height: 163px;
+
+    border-radius: 10px;
+  }
+
+
+  .profile-links {
+    font-size: 0.9rem;
+  }
+
+
+  .profile-links a {
+    margin-right: 13px;
+    margin-bottom: 3px;
+  }
+
+
+  .research-box {
+    padding: 15px 18px;
+  }
+}
+
+
+/* =========================================================
+   Very small screens
+   ========================================================= */
+
+@media screen and (max-width: 420px) {
+
+  .wrapper {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+
+  h1,
+  .hero h1 {
+    font-size: 2.4rem;
+  }
+
+
+  .hero-photo img {
+    width: 125px;
+    height: 150px;
   }
 }
