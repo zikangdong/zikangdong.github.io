@@ -2,7 +2,7 @@
 
 <div class="hero-text">
 
-# Zikang Dong
+## Zikang Dong
 
 <div class="subtitle">
 Associate Professor · School of Mathematical Sciences · Soochow University
@@ -42,7 +42,7 @@ My Ph.D. thesis is available [here](https://theses.hal.science/tel-04284187v1/do
 
 From September 2022 to August 2025, I was a Postdoctoral Researcher at [Tongji University](https://www.tongji.edu.cn/), working with Prof. [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm).
 
-<div class="research-box">
+
 
 
 
