@@ -2,7 +2,7 @@
 
 <div class="hero-text">
 
-## Zikang Dong
+<h1>Zikang Dong</h1>
 
 <div class="subtitle">
 Associate Professor · School of Mathematical Sciences · Soochow University
@@ -27,7 +27,7 @@ Analytic Number Theory
 <img src="/assets/img/zikang-dong.png" alt="Zikang Dong">
 </div>
 
-</div>
+
 
 ## About Me
 
