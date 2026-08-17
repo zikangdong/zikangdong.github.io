@@ -1,0 +1,288 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* =========================
+   Global
+   ========================= */
+
+:root {
+  --primary: #17365d;
+  --primary-light: #2f5f91;
+  --text: #2f3542;
+  --muted: #6c757d;
+  --border: #e6e9ee;
+  --soft-bg: #f7f9fc;
+}
+
+body {
+  background: #ffffff;
+  color: var(--text);
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "Helvetica Neue",
+    Arial,
+    sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* Make the main area wider */
+.wrapper {
+  width: 1040px;
+  max-width: 94%;
+}
+
+/* Main content */
+section {
+  width: 720px;
+}
+
+/* Sidebar */
+header {
+  width: 250px;
+}
+
+/* =========================
+   Typography
+   ========================= */
+
+h1,
+h2,
+h3 {
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "Helvetica Neue",
+    Arial,
+    sans-serif;
+}
+
+h1 {
+  color: var(--primary);
+  font-size: 2.25rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  margin-bottom: 0.25rem;
+}
+
+h2 {
+  color: var(--primary);
+  font-size: 1.55rem;
+  font-weight: 650;
+  margin-top: 2.5rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid var(--border);
+}
+
+h3 {
+  color: var(--primary-light);
+  font-size: 1.15rem;
+  font-weight: 650;
+  margin-top: 1.8rem;
+}
+
+p {
+  margin-top: 0.75rem;
+  margin-bottom: 0.9rem;
+}
+
+strong {
+  font-weight: 650;
+}
+
+/* =========================
+   Links
+   ========================= */
+
+a {
+  color: #2867a5;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #153d68;
+  text-decoration: underline;
+}
+
+/* =========================
+   Top profile area
+   ========================= */
+
+.profile-intro {
+  margin-bottom: 2rem;
+}
+
+.profile-name {
+  margin-bottom: 0.15rem;
+}
+
+.profile-title {
+  color: #4d5967;
+  font-size: 1.08rem;
+  margin-bottom: 0.15rem;
+}
+
+.profile-field {
+  color: var(--primary);
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+/* =========================
+   Buttons
+   ========================= */
+
+.profile-links {
+  margin: 1.2rem 0 1.8rem 0;
+}
+
+.profile-links a {
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 3px 5px 3px 0;
+  border: 1px solid #ccd5df;
+  border-radius: 6px;
+  color: var(--primary);
+  background: #ffffff;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.15s ease;
+}
+
+.profile-links a:hover {
+  background: var(--primary);
+  color: white;
+  text-decoration: none;
+  border-color: var(--primary);
+}
+
+/* =========================
+   Research box
+   ========================= */
+
+.research-box {
+  background: var(--soft-bg);
+  border-left: 4px solid var(--primary);
+  padding: 14px 18px;
+  margin: 1.5rem 0 2rem 0;
+  border-radius: 3px;
+}
+
+.research-box ul {
+  margin-bottom: 0;
+}
+
+/* =========================
+   Publications
+   ========================= */
+
+.publication {
+  margin-bottom: 1.25rem;
+}
+
+.pub-title {
+  font-weight: 600;
+  color: #202938;
+}
+
+.pub-authors {
+  color: #4e5866;
+}
+
+.pub-journal {
+  color: #596779;
+}
+
+.pub-link {
+  font-size: 0.9rem;
+}
+
+ol {
+  padding-left: 1.5rem;
+}
+
+ol li {
+  padding-left: 0.25rem;
+  margin-bottom: 1.1rem;
+}
+
+/* =========================
+   Horizontal rule
+   ========================= */
+
+hr {
+  border: 0;
+  height: 1px;
+  background: var(--border);
+  margin: 2rem 0;
+}
+
+/* =========================
+   Sidebar cleanup
+   ========================= */
+
+header h1 {
+  color: var(--primary);
+}
+
+header p {
+  color: var(--muted);
+}
+
+header ul {
+  display: none;
+}
+
+/* =========================
+   Mobile
+   ========================= */
+
+@media print, screen and (max-width: 960px) {
+  div.wrapper {
+    width: auto;
+    margin: 0;
+  }
+
+  header,
+  section {
+    float: none;
+    position: static;
+    width: auto;
+  }
+
+  header {
+    padding-right: 0;
+  }
+
+  section {
+    border: none;
+    padding: 20px 0;
+    margin: 0;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    padding: 18px;
+    font-size: 15px;
+  }
+
+  h1 {
+    font-size: 1.85rem;
+  }
+
+  h2 {
+    font-size: 1.35rem;
+  }
+
+  .profile-links a {
+    padding: 5px 9px;
+    font-size: 0.85rem;
+  }
+}
