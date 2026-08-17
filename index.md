@@ -1,7 +1,3 @@
-<img
-  src="/assets/img/zikang-dong.jpg"
-  alt="Zikang Dong"
-  class="profile-photo">
 <div class="hero">
 
 <div class="hero-text">
@@ -18,6 +14,7 @@ Analytic Number Theory
 
 <div class="profile-links">
 <a href="mailto:zikangdong@gmail.com">Email</a>
+<a href="CV-en.pdf">CV</a>
 <a href="https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ">Google Scholar</a>
 <a href="https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50">arXiv</a>
 <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1563796">MathSciNet</a>
@@ -26,11 +23,14 @@ Analytic Number Theory
 
 </div>
 
+<div class="hero-photo">
+<img src="assets/img/zikang-dong.jpg" alt="Zikang Dong">
 </div>
 
----
+</div>
 
 ## About Me
+
 
 I am an **Associate Professor** in the [School of Mathematical Sciences](https://math.suda.edu.cn/) at [Soochow University](https://www.suda.edu.cn/).
 
