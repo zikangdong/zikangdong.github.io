@@ -1,3 +1,7 @@
+<img
+  src="/assets/img/zikang-dong.jpg"
+  alt="Zikang Dong"
+  class="profile-photo">
 <div class="hero">
 
 <div class="hero-text">
