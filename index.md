@@ -44,14 +44,7 @@ From September 2022 to August 2025, I was a Postdoctoral Researcher at [Tongji U
 
 <div class="research-box">
 
-### Research Interests
 
-* Extreme values of zeta and (L)-functions
-* Value distribution of (L)-functions
-* Quadratic Dirichlet (L)-functions
-* Character sums
-* Dirichlet polynomials
-* Multiplicative functions
 
 </div>
 
