@@ -1,43 +1,181 @@
-# Zikang DONG
+<div class="hero">
 
-zikangdong@gmail.com
+<div class="hero-text">
 
-## About me
-I am an associate professor in the [School of Mathematical Sciences](https://math.suda.edu.cn/) at [Soochow University](https://www.suda.edu.cn/). I work in analytic number theory. I obtained my PhD in June 2022 in [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/) at [Univésité Paris-Est Créteil](https://www.u-pec.fr/), under the supervision of Prof. [Jie Wu](https://lama.u-pem.fr/membres/wu.jie). Here is my PhD [thesis](https://theses.hal.science/tel-04284187v1/document). I was a PostDoc at Tongji University from Sept 2022 to Aug 2025, working with Prof. [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm).
+# Zikang Dong
 
- 
-## Publications and preprints
-1.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://zhanghaozha.github.io/homepage/)) *Distribution of Dirichlet L-functions*,  Mathematika **69**(3) (2023), [719-750](https://doi.org/10.1112/mtk.12205)   
-2.(with [Bin Wei](https://sxkxxy.tiangong.edu.cn/2025/0521/c4977a105124/page.htm)) *A note on large values of ζ^(l)(1+it)*, Bull. Aust. Math. Soc. **108** (2023), [217-223](https://doi.org/10.1017/S0004972722001605)  
-3.*On the distribution of large values of ζ(1+it)*, Period. Math. Hung. **87** (2023), [374-393](https://doi.org/10.1007/s10998-023-00522-9)  
-4.(with [Bin Wei](https://sxkxxy.tiangong.edu.cn/2025/0521/c4977a105124/page.htm)) *On large values of ζ(σ+it)*, [arXiv:2110.04278](https://arxiv.org/abs/2110.04278), submitted  
-5.*On the distribution of large values of ζ(σ+it)*, Bull. Malays. Math. Sci. Soc. **48**(2025), [pp 1-22](https://link.springer.com/article/10.1007/s40840-025-01955-w)  
-6.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://zhanghaozha.github.io/homepage/)) *Structure of large quadratic character sums*, [arXiv:2306.06355](https://arxiv.org/abs/2306.06355),  submitted  
-7.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://zhanghaozha.github.io/homepage/)) *Large zeta sums*, Period. Math. Hung. **91**(2) (2025), [388-398](https://doi.org/10.1007/s10998-025-00658-w)  
-8.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://zhanghaozha.github.io/homepage/)) *On derivatives of zeta and L-functions*, Ramanujan J. **66** (5) (2025), [pp 1-16](https://link.springer.com/article/10.1007/s11139-024-00963-x)  
-9.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://zhanghaozha.github.io/homepage/)) *Almost meromorphic modular forms and their associated L-functions*, Adv. Math. **486** (2026), [pp 1-49](https://doi.org/10.1016/j.aim.2025.110745)  
-10.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://zhanghaozha.github.io/homepage/)) *Lower bounds for high moments of zeta sums*, [arXiv:2506.09334](http://arxiv.org/abs/2506.09334)  
-11.(with [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm), Yutong Song and Shengbo Zhao) *Large values of character sums with multiplicative coefficients*, [arXiv:2508.09750](http://arxiv.org/abs/2508.09750)  
-12.(with Yanbin Zhang) *Large quadratic character sums*, [arXiv:2509.07651](https://arxiv.org/abs/2509.07651)  
-13.(with [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm), Yutong Song and Shengbo Zhao) *Large values of quadratic Dirichlet L-functions near the central point*, [arXiv:2508.12205](https://arxiv.org/abs/2508.12205)  
-14.(with [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm), Yutong Song and Shengbo Zhao) *Quadratic character sums with multiplicative coefficients*, [arXiv:2508.16967](https://arxiv.org/abs/2508.16967)  
-15.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://zhanghaozha.github.io/homepage/) and Shengbo Zhao) *Large character sums with multiplicative coefficients*, [arXiv:2509.09649](https://arxiv.org/abs/2509.09649)  
-16.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://zhanghaozha.github.io/homepage/) and Shengbo Zhao) *Large values of Dirichlet polynomials with multiplicative coefficients*, [	arXiv:2509.09771](https://arxiv.org/abs/2509.09771)   
-17.(with Yutong Song, [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://zhanghaozha.github.io/homepage/) and Shengbo Zhao) *Large quadratic character sums with multiplicative coefficients*, [arXiv:2509.20192](https://arxiv.org/abs/2509.20192)   
-18.(with Yutong Song, [Ruihua Wang](https://pandamology.github.io/) and Shengbo Zhao) *Note on large quadratic character sums*, [arXiv:2510.09005](https://arxiv.org/abs/2510.09005)   
-19.(with [Ruihua Wang](https://pandamology.github.io/), [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html) and [Hao Zhang](https://zhanghaozha.github.io/homepage/)) *Large values of quadratic character sums revisited*, [arXiv:2512.24147](https://arxiv.org/abs/2512.24147)  
-20.(with [Takao Komatsu](https://tkomatsu31.wixsite.com/mysite)) *Finite q-multiple harmonic sums on 2-…-2,1-…-1 indices*, [arXiv:2601.21395](https://arxiv.org/abs/2601.21395)  
-21.(with Haidong Li) *Large values of logarithmic derivatives of quadratic Dirichlet L-functions*, [arXiv:2603.21256](https://arxiv.org/abs/2603.21256)  
-22.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://zhanghaozha.github.io/homepage/) and Shengbo Zhao) *Extreme values of quadratic Dirichlet L-functions*, [arXiv:2607.20408](https://arxiv.org/pdf/2607.20408)   
-23.(with [Weijia Wang](http://mcm.amss.cas.cn/people/postdocs/202312/t20231201_645307.html), [Hao Zhang](https://zhanghaozha.github.io/homepage/) and Shengbo Zhao) *Extreme values of quadratic Dirichlet L-functions with prime-related moduli*, [arXiv:2607.25403](https://arxiv.org/pdf/2607.25403)
+<div class="subtitle">
+Associate Professor · School of Mathematical Sciences · Soochow University
+</div>
 
+<div class="research-title">
+Analytic Number Theory
+</div>
 
-## Some links:   
-[arXiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)   
-[ResearchGate](https://www.researchgate.net/profile/Zikang-Dong)  
-[zbMATH Open](https://zbmath.org/authors/dong.zikang)  
-[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ)  
-[Mathematical Reviews](https://mathscinet.ams.org/mathscinet/author?authorId=1563796)  
-[Official personal website](https://web.suda.edu.cn/dzk/)  
-[Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=294426)  
+<div class="profile-links">
+<a href="mailto:zikangdong@gmail.com">Email</a>
+<a href="https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ">Google Scholar</a>
+<a href="https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50">arXiv</a>
+<a href="https://mathscinet.ams.org/mathscinet/author?authorId=1563796">MathSciNet</a>
+<a href="https://zbmath.org/authors/dong.zikang">zbMATH</a>
+</div>
 
+</div>
+
+</div>
+
+---
+
+## About Me
+
+I am an **Associate Professor** in the [School of Mathematical Sciences](https://math.suda.edu.cn/) at [Soochow University](https://www.suda.edu.cn/).
+
+My research lies in **analytic number theory**, with particular interests in the extreme values and value distribution of the Riemann zeta function and Dirichlet (L)-functions, character sums, Dirichlet polynomials, and multiplicative functions.
+
+I received my Ph.D. in Mathematics from [Université Paris-Est Créteil](https://www.u-pec.fr/) in June 2022, where I was a member of the [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/) and worked under the supervision of Prof. [Jie Wu](https://lama.u-pem.fr/membres/wu.jie).
+
+My Ph.D. thesis is available [here](https://theses.hal.science/tel-04284187v1/document).
+
+From September 2022 to August 2025, I was a Postdoctoral Researcher at [Tongji University](https://www.tongji.edu.cn/), working with Prof. [Zhonghua Li](https://math.tongji.edu.cn/info/1248/9428.htm).
+
+<div class="research-box">
+
+### Research Interests
+
+* Extreme values of zeta and (L)-functions
+* Value distribution of (L)-functions
+* Quadratic Dirichlet (L)-functions
+* Character sums
+* Dirichlet polynomials
+* Multiplicative functions
+
+</div>
+
+## Publications
+
+### Recent Work & Preprints
+
+**[23]** **Z. Dong**, W. Wang, H. Zhang and S. Zhao,
+*Extreme values of quadratic Dirichlet L-functions with prime-related moduli*,
+[arXiv:2607.25403](https://arxiv.org/abs/2607.25403).
+
+**[22]** **Z. Dong**, W. Wang, H. Zhang and S. Zhao,
+*Extreme values of quadratic Dirichlet L-functions*,
+[arXiv:2607.20408](https://arxiv.org/abs/2607.20408).
+
+**[21]** **Z. Dong** and H. Li,
+*Large values of logarithmic derivatives of quadratic Dirichlet L-functions*,
+[arXiv:2603.21256](https://arxiv.org/abs/2603.21256).
+
+**[20]** **Z. Dong** and T. Komatsu,
+*Finite q-multiple harmonic sums on 2-…-2,1-…-1 indices*,
+[arXiv:2601.21395](https://arxiv.org/abs/2601.21395).
+
+**[19]** **Z. Dong**, R. Wang, W. Wang and H. Zhang,
+*Large values of quadratic character sums revisited*,
+[arXiv:2512.24147](https://arxiv.org/abs/2512.24147).
+
+**[18]** **Z. Dong**, Y. Song, R. Wang and S. Zhao,
+*Note on large quadratic character sums*,
+[arXiv:2510.09005](https://arxiv.org/abs/2510.09005).
+
+**[17]** **Z. Dong**, Y. Song, W. Wang, H. Zhang and S. Zhao,
+*Large quadratic character sums with multiplicative coefficients*,
+[arXiv:2509.20192](https://arxiv.org/abs/2509.20192).
+
+**[16]** **Z. Dong**, Y. Song, W. Wang, H. Zhang and S. Zhao,
+*Large values of Dirichlet polynomials with multiplicative coefficients*,
+[arXiv:2509.09771](https://arxiv.org/abs/2509.09771).
+
+**[15]** **Z. Dong**, Y. Song, W. Wang, H. Zhang and S. Zhao,
+*Large character sums with multiplicative coefficients*,
+[arXiv:2509.09649](https://arxiv.org/abs/2509.09649).
+
+**[14]** **Z. Dong** and Y. Zhang,
+*Large quadratic character sums*,
+[arXiv:2509.07651](https://arxiv.org/abs/2509.07651).
+
+**[13]** **Z. Dong**, Z. Li, Y. Song and S. Zhao,
+*Quadratic character sums with multiplicative coefficients*,
+[arXiv:2508.16967](https://arxiv.org/abs/2508.16967).
+
+**[12]** **Z. Dong**, Z. Li, Y. Song and S. Zhao,
+*Large values of quadratic Dirichlet L-functions near the central point*,
+[arXiv:2508.12205](https://arxiv.org/abs/2508.12205).
+
+**[11]** **Z. Dong**, Z. Li, Y. Song and S. Zhao,
+*Large values of character sums with multiplicative coefficients*,
+[arXiv:2508.09750](https://arxiv.org/abs/2508.09750).
+
+**[10]** **Z. Dong**, W. Wang and H. Zhang,
+*Lower bounds for high moments of zeta sums*,
+[arXiv:2506.09334](https://arxiv.org/abs/2506.09334).
+
+**[6]** **Z. Dong**, W. Wang and H. Zhang,
+*Structure of large quadratic character sums*,
+[arXiv:2306.06355](https://arxiv.org/abs/2306.06355).
+*Submitted.*
+
+**[4]** **Z. Dong** and B. Wei,
+*On large values of (\zeta(\sigma+it))*,
+[arXiv:2110.04278](https://arxiv.org/abs/2110.04278).
+*Submitted.*
+
+### Published Papers
+
+**[9]** **Z. Dong**, W. Wang and H. Zhang,
+*Almost meromorphic modular forms and their associated L-functions*,
+**Advances in Mathematics 486** (2026), 1–49.
+[DOI](https://doi.org/10.1016/j.aim.2025.110745)
+
+**[8]** **Z. Dong**, Y. Song, W. Wang and H. Zhang,
+*On derivatives of zeta and L-functions*,
+**The Ramanujan Journal 66**(5) (2025), 1–16.
+[Journal](https://link.springer.com/article/10.1007/s11139-024-00963-x)
+
+**[7]** **Z. Dong**, W. Wang and H. Zhang,
+*Large zeta sums*,
+**Periodica Mathematica Hungarica 91**(2) (2025), 388–398.
+[DOI](https://doi.org/10.1007/s10998-025-00658-w)
+
+**[5]** **Z. Dong**,
+*On the distribution of large values of (\zeta(\sigma+it))*,
+**Bulletin of the Malaysian Mathematical Sciences Society 48** (2025), 1–22.
+[Journal](https://link.springer.com/article/10.1007/s40840-025-01955-w)
+
+**[3]** **Z. Dong**,
+*On the distribution of large values of (\zeta(1+it))*,
+**Periodica Mathematica Hungarica 87** (2023), 374–393.
+[DOI](https://doi.org/10.1007/s10998-023-00522-9)
+
+**[2]** **Z. Dong** and B. Wei,
+*A note on large values of (\zeta^{(\ell)}(1+it))*,
+**Bulletin of the Australian Mathematical Society 108** (2023), 217–223.
+[DOI](https://doi.org/10.1017/S0004972722001605)
+
+**[1]** **Z. Dong**, W. Wang and H. Zhang,
+*Distribution of Dirichlet L-functions*,
+**Mathematika 69**(3) (2023), 719–750.
+[DOI](https://doi.org/10.1112/mtk.12205)
+
+---
+
+## Academic Profiles
+
+<div class="academic-links">
+
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ) ·
+[arXiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50) ·
+[ResearchGate](https://www.researchgate.net/profile/Zikang-Dong) ·
+[zbMATH Open](https://zbmath.org/authors/dong.zikang) ·
+[MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1563796) ·
+[Official Website](https://web.suda.edu.cn/dzk/) ·
+[Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=294426)
+
+</div>
+
+---
+
+<div class="footer-note">
+Last updated: August 2026.
+</div>
