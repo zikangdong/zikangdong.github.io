@@ -24,7 +24,7 @@ Analytic Number Theory
 </div>
 
 <div class="hero-photo">
-<img src="assets/img/zikang-dong.jpg" alt="Zikang Dong">
+<img src="assets/img/zikang-dong.png" alt="Zikang Dong">
 </div>
 
 </div>
