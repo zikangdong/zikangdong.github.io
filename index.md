@@ -164,19 +164,7 @@ From September 2022 to August 2025, I was a Postdoctoral Researcher at [Tongji U
 
 ---
 
-## Academic Profiles
 
-<div class="academic-links">
-
-[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ) ·
-[arXiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50) ·
-[ResearchGate](https://www.researchgate.net/profile/Zikang-Dong) ·
-[zbMATH Open](https://zbmath.org/authors/dong.zikang) ·
-[MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1563796) ·
-[Official Website](https://web.suda.edu.cn/dzk/) ·
-[Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=294426)
-
-</div>
 
 ---
 
