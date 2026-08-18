@@ -34,7 +34,7 @@ Analytic Number Theory
 
 I am an **Associate Professor** in the [School of Mathematical Sciences](https://math.suda.edu.cn/) at [Soochow University](https://www.suda.edu.cn/).
 
-My research lies in **analytic number theory**, with particular interests in the extreme values and value distribution of the Riemann zeta function and Dirichlet (L)-functions, character sums, Dirichlet polynomials, and multiplicative functions.
+My research lies in **analytic number theory**, with particular interests in the extreme values and value distribution of the Riemann zeta function and Dirichlet *L*-functions, character sums, Dirichlet polynomials, and multiplicative functions.
 
 I received my Ph.D. in Mathematics from [Université Paris-Est Créteil](https://www.u-pec.fr/) in June 2022, where I was a member of the [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/) and worked under the supervision of Prof. [Jie Wu](https://lama.u-pem.fr/membres/wu.jie).
 
@@ -51,6 +51,10 @@ From September 2022 to August 2025, I was a Postdoctoral Researcher at [Tongji U
 ## Publications
 
 ### Recent Work & Preprints
+
+**[24]** **Z. Dong**, R. Wang, W. Wang, H. Zhang and S. Zhao,
+*Large values of quadratic character sums*,
+[arXiv:2608.15773](https://arxiv.org/pdf/2608.15773). 
 
 **[23]** **Z. Dong**, W. Wang, H. Zhang and S. Zhao,
 *Extreme values of quadratic Dirichlet L-functions with prime-related moduli*,
