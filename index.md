@@ -14,11 +14,12 @@ Analytic Number Theory
 
 <div class="profile-links">
 <a href="mailto:zikangdong@gmail.com">Email</a>
-<a href="CV-en.pdf">CV</a>
+
 <a href="https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ">Google Scholar</a>
 <a href="https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50">arXiv</a>
 <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1563796">MathSciNet</a>
 <a href="https://zbmath.org/authors/dong.zikang">zbMATH</a>
+<a href="https://www.researchgate.net/profile/Zikang-Dong">ResearchGate</a>
 </div>
 
 </div>
@@ -51,6 +52,14 @@ From September 2022 to August 2025, I was a Postdoctoral Researcher at [Tongji U
 ## Publications
 
 ### Recent Work & Preprints
+
+**[26]** **Z. Dong** and L. Liu,
+*Extreme values of quadratic Hecke L-functions*,
+[arXiv:2609.16807](https://arxiv.org/pdf/2609.16807).
+
+**[25]** **Z. Dong**, R. Wang, W. Wang and H. Zhang,
+*Large zeta sums and zeros of the Riemann zeta function*,
+[arXiv:2608.31060](https://arxiv.org/pdf/2608.31060).
 
 **[24]** **Z. Dong**, R. Wang, W. Wang, H. Zhang and S. Zhao,
 *Large values of quadratic character sums*,
