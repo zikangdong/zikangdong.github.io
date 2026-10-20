@@ -53,6 +53,14 @@ From September 2022 to August 2025, I was a Postdoctoral Researcher at [Tongji U
 
 ### Recent Work & Preprints
 
+**[28]**  **Z. Dong**, R. Wang, W. Wang, H. Zhang and S. Zhao,
+*Large values of derivatives of quadratic Dirichlet L-functions*,
+[arXiv:2610.24958](https://arxiv.org/pdf/2610.24958) 
+
+**[27]** **Z. Dong**, Q. Yang and S. Zhao,
+*Extreme values of Dirichlet L-functions on the critical line with a growing prime modulus*,
+[arXiv:2610.02709](https://arxiv.org/pdf/2610.02709)
+
 **[26]** **Z. Dong** and L. Liu,
 *Extreme values of quadratic Hecke L-functions*,
 [arXiv:2609.16807](https://arxiv.org/pdf/2609.16807).
