@@ -53,6 +53,14 @@ From September 2022 to August 2025, I was a Postdoctoral Researcher at [Tongji U
 
 ### Recent Work & Preprints
 
+**[30]** **Z. Dong**, S. Zhao and G.-L. Zhou,
+*Smooth approximations to character sums and zeta sums*,
+[arXiv:2611.11389](https://arxiv.org/abs/2611.11389) 
+
+**[29]** **Z. Dong**, S. Zhao, Q. Yang and G.-L. Zhou,
+*Extreme values of derivatives of Dedekind zeta functions on the 1-line*,
+[arXiv:2611.02675](https://arxiv.org/abs/2611.02675) 
+
 **[28]**  **Z. Dong**, R. Wang, W. Wang, H. Zhang and S. Zhao,
 *Large values of derivatives of quadratic Dirichlet L-functions*,
 [arXiv:2610.24958](https://arxiv.org/pdf/2610.24958) 
